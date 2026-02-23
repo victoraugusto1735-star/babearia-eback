@@ -1,0 +1,66 @@
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
+
+.card {
+    border-radius: 15px;
+    transition: 0.3s;
+    height: 100%;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+/* FUNDO GERAL */
+body {
+    background: linear-gradient(135deg, #1a0033, #001f3f);
+    color: white;
+}
+
+/* NAVBAR */
+.navbar {
+    background: linear-gradient(90deg, #4b0082, #007bff) !important;
+}
+
+/* BOTÕES */
+.btn-dark {
+    background: linear-gradient(90deg, #6a00ff, #009dff);
+    border: none;
+}
+
+.btn-dark:hover {
+    opacity: 0.8;
+}
+
+/* CARDS */
+.card {
+    background-color: #111;
+    color: white;
+    border-radius: 15px;
+    transition: 0.3s;
+    height: 100%;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
+
+/* RODAPÉ */
+footer {
+    background: linear-gradient(90deg, #4b0082, #007bff);
+}
+section.p-5 {
+    color: white;
+}
+.titulo-preto {
+    color: black;
+}.parágrafo-preto {
+    color: black;
+}

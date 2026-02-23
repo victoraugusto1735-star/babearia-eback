@@ -1,0 +1,10 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+body {
+    background-color: #f8f9fa;
+}
+.card {
+    border-radius: 15px;
+    transition: 0.3s;
+    box-shadow: 0 5px 15px rgb(255, 255, 255);
+}
